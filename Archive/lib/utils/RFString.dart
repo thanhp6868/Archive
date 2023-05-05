@@ -1,0 +1,19 @@
+const CNY = "¥";
+const RFAppName = "TÁC NGHIỆP TÂN CẢNG";
+const RFAppSubTitle = "Quản lý tác nghiệp Tân Cảng";
+const RFBaseUrl = "https://tancang.andin.io/api/";
+const RFBaseLogin = "https://tancang.andin.io/api/login";
+const RFBaseLogout = "https://tancang.andin.io/api/logout";
+const RFGetDataKhoiTao = "https://tancang.andin.io/api/get-data-khoi-tao";
+const RFSavePhieuTacNghiep = "https://tancang.andin.io/api/save-phieu-tac-nghiep";
+const RFSaveChiTietPhieuTacNghiep = "https://tancang.andin.io/api/save-chi-tiet-phieu-tac-nghiep";
+const RFBaseSignUp = "https://tancang.andin.io/api/register";
+const RFGetListDanhMuc = "https://tancang.andin.io/api/get-list-danh-muc";
+const RFGetListPhieuTacNghiep = "https://tancang.andin.io/api/get-list-phieu-tac-nghiep";
+const RFGetListChiTietPhieuTacNghiep = "https://tancang.andin.io/api/get-list-chi-tiet-phieu-tac-nghiep";
+const RFDownloadPDF = "https://tancang.andin.io/api/tai-pdf";
+const RFLoadPhieu = "https://tancang.andin.io/api/load-phieu";
+const RFDeletePhieu = "https://tancang.andin.io/api/delete-phieu";
+const RFDeleteChiTietPhieu = "https://tancang.andin.io/api/delete-chi-tiet-phieu";
+
+const textSizeSMedium = 14.0;
